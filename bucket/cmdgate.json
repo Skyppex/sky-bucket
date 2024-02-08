@@ -5,9 +5,9 @@
     "license": "https://spdx.org/licenses/CC0-1.0.html",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/skyppex/cmdgate/blob/main/target/release/cmdgate.exe"
+        "url": "https://raw.githubusercontent.com/skyppex/cmdgate/main/target/release/cmdgate.exe"
     },
     "extract_dir": "cmdgate-$version",
-    "url": "https://github.com/skyppex/cmdgate/blob/main/target/release/cmdgate.exe",
+    "url": "https://raw.githubusercontent.com/skyppex/cmdgate/main/target/release/cmdgate.exe",
     "bin": "cmdgate.exe"
 }
