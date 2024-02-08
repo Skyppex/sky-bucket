@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/skyppex/cmdgate",
+    "description": "Interact with the Windows command line from WSL",
+    "version": "1.0.0",
+    "license": "https://spdx.org/licenses/CC0-1.0.html",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/skyppex/cmdgate/blob/main/target/release/cmdgate.exe"
+    },
+    "url": "https://github.com/skyppex/cmdgate/blob/main/target/release/cmdgate.exe",
+    "hash": "b7b3e300fdfb763de02899b3846d9f8bf4ead6e1c3fc06905e101b0c0fdc6c94",
+    "bin": "cmdgate.exe"
+}
