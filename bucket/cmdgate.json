@@ -9,5 +9,6 @@
     },
     "extract_dir": "cmdgate-$version",
     "url": "https://raw.githubusercontent.com/skyppex/cmdgate/main/target/release/cmdgate.exe",
-    "bin": "cmdgate.exe"
+    "bin": "cmdgate.exe",
+    "hash": "4c7453e03b6dc09f37b53d8c2a1ef34abbfaf83d348891c79e42428debf643e7"
 }
